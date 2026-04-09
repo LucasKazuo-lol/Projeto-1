@@ -1,0 +1,7 @@
+Escola: add nome_escola e telefone de atributos pra bater com o requisito de modelagem. 
+
+De escola pra IP_autorizado: cardinalide 0,n em Escola para poder cadastrar antes de ter o IP. 
+
+Entidade Assinatura, ligada ao Registro 
+
+E atributo contador_mes em Assinatura, tendo o controle do limite mensal
